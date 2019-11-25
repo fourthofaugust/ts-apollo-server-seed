@@ -1,0 +1,1 @@
+# ts-apollo-server-seed
