@@ -1,5 +1,5 @@
 # GraphQL Server
-> an apollo graphQL server seed written in typescript
+> an apollo graphQL server starter project
 
 [![Dependency Status][david-image]][david-url]
 [![TypeScript Style Guide][gts-image]][gts-url]
