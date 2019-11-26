@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+#Intellij
+.idea/
+
+# TS Build Folder
+build/
