@@ -1,13 +1,15 @@
-# Typescript Apollo Server
+# GraphQL Server
+> an apollo graphQL server seed written in typescript
 
 [![Dependency Status][david-image]][david-url]
 [![TypeScript Style Guide][gts-image]][gts-url]
+[![License: MIT][license-image]][license-url]
 
 ## Getting Started
 
 The easiest way to start the server is to run:
 ```sh
-npm start
+npm run start
 ```
 
 ## Scripts
@@ -17,6 +19,10 @@ npm start
   - `compile`: Compiles the source code using TypeScript compiler.
   - `pretest`, `posttest` and `prepare`: convenience integrations.
 - If a source folder is not already present it will add a default template project.
+
+## Developers
+
+- [Phani Mahesh](https://twitter.com/fourthofaugust)
 
 ## License
 [MIT](LICENSE)
@@ -28,3 +34,5 @@ npm start
 [gts-url]: https://github.com/google/gts
 [standardjs-url]: https://www.npmjs.com/package/standard
 [tslint-url]: https://palantir.github.io/tslint/
+[license-url]: https://opensource.org/licenses/MIT
+[license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
